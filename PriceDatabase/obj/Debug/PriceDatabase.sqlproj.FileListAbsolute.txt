@@ -1,0 +1,14 @@
+E:\Blogging\Projects\PriceDatabase\bin\Debug\PriceDatabase.dacpac
+E:\Blogging\Projects\PriceDatabase\bin\Debug\PriceDatabase.dll
+E:\Blogging\Projects\PriceDatabase\bin\Debug\PriceDatabase.pdb
+E:\Blogging\Projects\PriceDatabase\obj\Debug\PriceDatabase.dll
+E:\Blogging\Projects\PriceDatabase\obj\Debug\PriceDatabase.pdb
+E:\Blogging\Projects\PriceDatabase\obj\Debug\Model.xml
+E:\Blogging\Projects\PriceDatabase\obj\Debug\refactor.xml
+E:\Blogging\Projects\PriceDatabase\obj\Debug\postdeploy.sql
+E:\Blogging\Projects\PriceDatabase\obj\Debug\predeploy.sql
+E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\bin\Debug\PriceDatabase.dacpac
+E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\bin\Debug\PriceDatabase.dll
+E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\bin\Debug\PriceDatabase.pdb
+E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\obj\Debug\PriceDatabase.dll
+E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\obj\Debug\PriceDatabase.pdb

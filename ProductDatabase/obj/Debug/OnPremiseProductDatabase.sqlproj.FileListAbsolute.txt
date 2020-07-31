@@ -1,0 +1,10 @@
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Debug\OnPremiseProductDatabase.sqlprojAssemblyReference.cache
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Debug\OnPremiseProductDatabase.dll
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Debug\OnPremiseProductDatabase.pdb
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Debug\OnPremiseProductDatabase.dacpac
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Debug\OnPremiseProductDatabase.dll
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Debug\OnPremiseProductDatabase.pdb
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Debug\PriceDatabase.dll
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Debug\PriceDatabase.pdb
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Debug\PriceDatabase.dacpac
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Debug\OnPremiseProductDatabase.sqlproj.CopyComplete

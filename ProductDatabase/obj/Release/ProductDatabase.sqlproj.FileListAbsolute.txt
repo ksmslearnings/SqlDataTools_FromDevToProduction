@@ -1,0 +1,14 @@
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Release\ProductDatabase.dacpac
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Release\OnPremiseProductDatabase.dll
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Release\OnPremiseProductDatabase.pdb
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Release\PriceDatabase.dll
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Release\PriceDatabase.pdb
+E:\Blogging\Projects\OnPremiseProductDatabase\bin\Release\PriceDatabase.dacpac
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\ProductDatabase.sqlprojAssemblyReference.cache
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\Model.xml
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\refactor.xml
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\postdeploy.sql
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\predeploy.sql
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\ProductDatabase.sqlproj.CopyComplete
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\OnPremiseProductDatabase.dll
+E:\Blogging\Projects\OnPremiseProductDatabase\obj\Release\OnPremiseProductDatabase.pdb

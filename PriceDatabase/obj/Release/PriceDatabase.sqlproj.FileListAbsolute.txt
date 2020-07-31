@@ -1,0 +1,9 @@
+E:\Blogging\Projects\PriceDatabase\bin\Release\PriceDatabase.dacpac
+E:\Blogging\Projects\PriceDatabase\bin\Release\PriceDatabase.dll
+E:\Blogging\Projects\PriceDatabase\bin\Release\PriceDatabase.pdb
+E:\Blogging\Projects\PriceDatabase\obj\Release\Model.xml
+E:\Blogging\Projects\PriceDatabase\obj\Release\refactor.xml
+E:\Blogging\Projects\PriceDatabase\obj\Release\postdeploy.sql
+E:\Blogging\Projects\PriceDatabase\obj\Release\predeploy.sql
+E:\Blogging\Projects\PriceDatabase\obj\Release\PriceDatabase.dll
+E:\Blogging\Projects\PriceDatabase\obj\Release\PriceDatabase.pdb
