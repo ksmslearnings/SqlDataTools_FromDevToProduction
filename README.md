@@ -28,14 +28,22 @@ This Repository explains using SQL Server Data Tools  for Version Management and
 - Solution File is present under third folder 'SQLServerDataTools'. You should be able to directly open the Solution and build it in VS 2019.
 
 ************Handling Deployment Automation using DACPAC Files*******************
-g. In any Production based Environment, there will be database changes including DDL and DML scripts that need to be pushed to higher environments.
-h. Releases are generally handled periodically like every sprint/month/quarter etc depending on Product Requirements.
-i. Also changes to the databases may need a specific run order for every script for successful deployment. To handle DB deployments, there can be many approaches and here I have explained one of them.
-j. You should see Release based Folders in both Product and Price Databases. This folders reflect monthly assumed releases.
-k. Current Release scripts will all go under CurrentRelease Folder. After Release is done , folder will be renamed like ReleaseXX-Month-Year to keep an audit and history.
-l. Each Release folder will have sql script files that need to be executed and another script file name as "OrderedSQLSteps.sql" that will consolidate and order all these files to run them in an Order.
-m. We can even Name Script Files with Order Number as Prefix if that makes life easy.
-n. Post Deploymetn Script will only refer to OrderedSQLSteps.sql. With this abstraction, we never need to modify PostDeployment Script file with every release.
+
+- In any Production based Environment, there will be database changes including DDL and DML scripts that need to be pushed to higher environments.
+
+- Releases are generally handled periodically like every sprint/month/quarter etc depending on Product Requirements.
+
+- Also changes to the databases may need a specific run order for every script for successful deployment. To handle DB deployments, there can be many approaches and here I have explained one of them.
+
+- You should see Release based Folders in both Product and Price Databases. This folders reflect monthly assumed releases.
+
+- Current Release scripts will all go under CurrentRelease Folder. After Release is done , folder will be renamed like ReleaseXX-Month-Year to keep an audit and history.
+
+- Each Release folder will have sql script files that need to be executed and another script file name as "OrderedSQLSteps.sql" that will consolidate and order all these files to run them in an Order.
+
+- We can even Name Script Files with Order Number as Prefix if that makes life easy.
+
+- Post Deploymetn Script will only refer to OrderedSQLSteps.sql. With this abstraction, we never need to modify PostDeployment Script file with every release.
 
 
 
