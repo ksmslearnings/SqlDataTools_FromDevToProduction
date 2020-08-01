@@ -1,0 +1,4 @@
+--Command to Deploy Only Changes Made In Existing Database , Create Diagnostic Logs and Script which will ran during Deployment.
+--Profile used here to deploy only the changes in database. No Change in Command but Profile file has been changed for this purpose.
+
+sqlpackage.exe /Action:Publish /Diagnostics:True /DiagnosticsFile:"E:\Blogging\Projects\DACPACDiagnostics.txt" /DeployScriptPath:"E:\Blogging\Projects\DACPACDeployScriptFile.sql" /Profile:"E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\ProductDatabase.publish.xml" /SourceFile:"E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\DACPAC_Output\ProductDatabase.dacpac" /TargetConnectionString:"Data Source=LAPTOP-SO8773KH;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False"

@@ -130,6 +130,8 @@
     <Folder Include="DMLScripts\ReleaseScripts\Release-July2020" />
     <Folder Include="DMLScripts\ReleaseScripts\CurrentRelease" />
     <Folder Include="DACPAC_Output" />
+    <Folder Include="DACPACDeployment_OnlyChangeScripts" />
+    <Folder Include="DACPACDeployment_ReCreatedEntireDatabase" />
   </ItemGroup>
   <ItemGroup>
     <SqlCmdVariable Include="PriceDatabase">
@@ -165,6 +167,8 @@
     <None Include="DMLScripts\ReleaseScripts\CurrentRelease\InsertProductCategory_Aug2020.sql" />
     <None Include="DMLScripts\ReleaseScripts\Release-July2020\OrderedSQLSteps.sql" />
     <None Include="DMLScripts\ReleaseScripts\Release-June2020\OrderedSQLSteps.sql" />
+    <None Include="DACPACDeployment_OnlyChangeScripts\DACPACDeployScriptFile.sql" />
+    <None Include="DACPACDeployment_ReCreatedEntireDatabase\DACPACDeployScriptFile.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="DMLScripts\ReleaseScripts\Release-July2020\InsertProductCategory_July2020.sql" />
@@ -172,6 +176,11 @@
     <None Include="DMLScripts\ReleaseScripts\CurrentRelease\OrderedSQLSteps.sql" />
     <None Include="DACPAC_Output\ProductDatabase.dacpac" />
     <None Include="ProductDatabase.publish.xml" />
+    <None Include="ReadMe.txt" />
+    <None Include="DACPACDeployment_OnlyChangeScripts\DACPACDiagnostics.txt" />
+    <None Include="DACPACDeployment_ReCreatedEntireDatabase\DACPACDiagnostics.txt" />
+    <None Include="DACPACDeployment_OnlyChangeScripts\Command Used to Run DACPAC.txt" />
+    <None Include="DACPACDeployment_ReCreatedEntireDatabase\Command Used to Run DACPAC.txt" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment1.sql" />

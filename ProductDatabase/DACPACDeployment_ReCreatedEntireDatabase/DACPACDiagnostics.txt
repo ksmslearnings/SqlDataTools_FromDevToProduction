@@ -1,0 +1,1143 @@
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:17 : SqlPackage completed
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:34 : SqlPackage completed
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:50 : Initialized ModelSchema - elements 146
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 19 : 2020-08-01T14:15:51 : IsolatedStorageFile probe success
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:51 : Initialized ModelSchema - elements 146
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 19 : 2020-08-01T14:15:51 : IsolatedStorageFile probe success
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:51 : RegistryManager.DatabaseQueryTimeout: 60 seconds.
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:51 : Initialized ModelSchema - elements 146
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 19 : 2020-08-01T14:15:51 : IsolatedStorageFile probe success
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:51 : RegistryManager.DatabaseLockTimeout: 5 seconds.
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:15:51 : RegistryManager.DatabaseLongRunningQueryTimeout: 0 seconds.
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : Logging Ambient Settings...
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : DatabaseLockTimeout: 5000
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : QueryTimeout: 60
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : LongRunningQueryTimeout: 0
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysRetryOnTransientFailure: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : ConnectionRetryHandler: 
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : MaxDataReaderDegreeOfParallelism: 8
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : TraceRowCountFailure: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : TableProgressUpdateInterval: 300
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : UseOfflineDataReader: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : StreamBackingStoreForOfflineDataReading: File
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : ModelFilePath: 
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : MasterReferenceFilePath: 
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : DisableIndexesForDataPhase: True
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : ReliableDdlEnabled: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : ImportModelDatabase: True
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : SupportAlwaysEncrypted: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysEncryptedWizardMigration: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysEncryptedWizardPreserveTable: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysEncryptedWizardUseOnlineApproach: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysEncryptedWizardDowntimeInSeconds: 300
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysEncryptedWizardMaxDivergingIterations: 5
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysEncryptedWizardMaxIterations: 100
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : AlwaysEncryptedWizardMaxIterationDurationInDays: 3
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : SkipObjectTypeBlocking: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : DoNotSerializeQueryStoreSettings: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : LargeObjectHeapCompaction: False
+Microsoft.Data.Tools.Diagnostics.Tracer Warning: 0 : 2020-08-01T14:15:51 : LargeObjectHeapCompactionIntervalInSeconds: 30
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:15:52 : Entering ExtensionTypeLoader.LoadTypes().
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:15:53 : Computed SqlImportScope for PopulateBatch is Default
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140DatabaseCredentialPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140DatabaseCredentialPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140DatabaseOptionsPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140DatabaseOptionsPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140GenericDatabaseScopedConfigurationOptionPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140GenericDatabaseScopedConfigurationOptionPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110UserPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110UserPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90RolePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90RolePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90ApplicationRolePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90ApplicationRolePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlRoleMembershipPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlRoleMembershipPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120FilegroupPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120FilegroupPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90FilePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90FilePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90FullTextCatalogPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90FullTextCatalogPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90AssemblyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90AssemblyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90CertificatePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90CertificatePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100AsymmetricKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100AsymmetricKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100SymmetricKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100SymmetricKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90SymmetricKeyEncryptionMechanismPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90SymmetricKeyEncryptionMechanismPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100DatabaseEncryptionKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100DatabaseEncryptionKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90SchemaPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90SchemaPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90XmlSchemaCollectionPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90XmlSchemaCollectionPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90UserDefinedDataTypePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90UserDefinedDataTypePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90UserDefinedTypePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90UserDefinedTypePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120TableTypePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120TableTypePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100TableColumnTypePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100TableColumnTypePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140TableTypeUniqueKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140TableTypeUniqueKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100TableTypeConstraintColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100TableTypeConstraintColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120TableTypePrimaryKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120TableTypePrimaryKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100TableTypeConstraintColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100TableTypeConstraintColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140TableTypeIndexPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140TableTypeIndexPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql120TableTypeIndexColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120TableTypeIndexColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100TableTypeCheckConstraintPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100TableTypeCheckConstraintPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100TableTypeDefaultConstraintPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100TableTypeDefaultConstraintPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90PartitionFunctionPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90PartitionFunctionPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90PartitionRangeValuePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90PartitionRangeValuePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90PartitionSchemePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90PartitionSchemePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90PartitionSchemeFilegroupPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90PartitionSchemeFilegroupPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140FunctionPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140FunctionPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140FunctionParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140FunctionParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140FunctionParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140FunctionParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100EncryptedAndClrFunctionPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100EncryptedAndClrFunctionPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100FunctionParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100FunctionParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100FunctionParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100FunctionParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90AggregatePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90AggregatePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90AggregateParametersPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90AggregateParametersPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120ProcedurePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120ProcedurePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140ProcedureParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ProcedureParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlProcedurePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlProcedurePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100ProcedureParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100ProcedureParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90EncryptedAndClrProcedurePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EncryptedAndClrProcedurePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140ProcedureParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ProcedureParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90EncryptedAndClrProcedurePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EncryptedAndClrProcedurePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140ProcedureParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ProcedureParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90EncryptedAndClrProcedurePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EncryptedAndClrProcedurePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100ProcedureParameterPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100ProcedureParameterPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140TablePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140TablePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140TableColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140TableColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110FileTablePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110FileTablePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql110FileTableColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110FileTableColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120PrimaryKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120PrimaryKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100ConstraintColumnSpecificationPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100ConstraintColumnSpecificationPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140UniqueConstraintPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140UniqueConstraintPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90ConstraintColumnSpecificationPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90ConstraintColumnSpecificationPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110ForeignKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110ForeignKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : SqlForeignKeyColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlForeignKeyColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110DefaultConstraintPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110DefaultConstraintPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110CheckConstraintPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110CheckConstraintPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90ViewPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90ViewPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : SqlViewColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlViewColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlEncryptedViewPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlEncryptedViewPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : SqlViewColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlViewColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140IndexPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140IndexPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140IndexedColumnSpecificationPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140IndexedColumnSpecificationPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120StatisticPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120StatisticPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : SqlStatisticColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlStatisticColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100FullTextStopListPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100FullTextStopListPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110SearchPropertyListPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110SearchPropertyListPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110SearchPropertyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110SearchPropertyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110FullTextIndexPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110FullTextIndexPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql110FullTextIndexColumnSpecifierPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110FullTextIndexColumnSpecifierPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140ColumnStoreIndexPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ColumnStoreIndexPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140ColumnStoreIndexColumnSpecificationPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ColumnStoreIndexColumnSpecificationPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110SpatialIndexPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110SpatialIndexPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90XmlIndexPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90XmlIndexPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110SelectiveXmlIndexPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110SelectiveXmlIndexPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql110SelectiveXmlIndexNamespacePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110SelectiveXmlIndexNamespacePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql110PromotedNodePathsPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110PromotedNodePathsPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90EncryptedAndClrDmlTriggerPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EncryptedAndClrDmlTriggerPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140DmlTriggerPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140DmlTriggerPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90EncryptedAndClrDdlTriggerPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EncryptedAndClrDdlTriggerPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90EncryptedDdlTriggerEventPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EncryptedDdlTriggerEventPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DdlTriggerPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DdlTriggerPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90DdlTriggerEventPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DdlTriggerEventPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90SynonymPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90SynonymPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlDefaultPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlDefaultPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : SqlLegacyDataConstriantColumnBindingPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlLegacyDataConstriantColumnBindingPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlLegacyDataConstraintUddtBindingPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlLegacyDataConstraintUddtBindingPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlRulePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlRulePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : SqlLegacyDataConstriantColumnBindingPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlLegacyDataConstriantColumnBindingPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlLegacyDataConstraintUddtBindingPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlLegacyDataConstraintUddtBindingPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90MessageTypePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90MessageTypePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120QueuePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120QueuePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90ContractPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90ContractPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90ContractMessageTypeUsagePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90ContractMessageTypeUsagePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90ServicePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90ServicePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90ServiceContractUsagePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90ServiceContractUsagePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90RoutePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90RoutePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90EventNotificationPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EventNotificationPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql90EventNotificationEventTypePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90EventNotificationEventTypePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100EventNotificationEventGroupPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100EventNotificationEventGroupPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90RemoteServiceBindingPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90RemoteServiceBindingPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100BrokerPriorityPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100BrokerPriorityPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql100DatabaseAuditSpecificationPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100DatabaseAuditSpecificationPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql100DatabaseAuditSpecificationDetailPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql100DatabaseAuditSpecificationDetailPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90SignaturePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90SignaturePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90SignaturePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90SignaturePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql120SpecifiesDataCompressionOptionsPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql120SpecifiesDataCompressionOptionsPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql110SequencePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql110SequencePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql130SecurityPolicyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql130SecurityPolicyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql130SecurityPredicatePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql130SecurityPredicatePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlColumnEncryptionKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlColumnEncryptionKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : SqlColumnEncryptionKeyValuePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlColumnEncryptionKeyValuePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : SqlColumnMasterKeyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+SqlColumnMasterKeyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140ExternalDataSourcePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ExternalDataSourcePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140ExternalFileFormatPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ExternalFileFormatPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql140ExternalTablePopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ExternalTablePopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating child populator : Sql140ExternalTableColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql140ExternalTableColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:01 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:01 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql90DatabasePermissionStatementPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90DatabasePermissionStatementPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating child populator : Sql90PermissionStatementColumnPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql90PermissionStatementColumnPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : SqlSysCommentObjectDependencyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+SqlSysCommentObjectDependencyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql110ExtendedPropertyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql110ExtendedPropertyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql110ExtendedPropertyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql110ExtendedPropertyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql110ExtendedPropertyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql110ExtendedPropertyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Populating populator : Sql110ExtendedPropertyPopulator
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 1 : 2020-08-01T14:16:02 : Executing populator:
+Sql110ExtendedPropertyPopulator
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Extensions\Microsoft.SqlServer.Services.ImportExport.DacFxExtensions.dll' added
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : Extension Lookup: directory 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Extensions' added to extension lookup path
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Hyak.Common.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.Azure.Common.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.Azure.KeyVault.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Error: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Extensibility failed to load DLL 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.Data.Tools.Schema.Sql.dll' due to an exception System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at System.ComponentModel.Composition.Hosting.AssemblyCatalog.get_InnerCatalog()
+   at System.ComponentModel.Composition.Hosting.AssemblyCatalog.GetEnumerator()
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at Microsoft.SqlServer.Dac.Extensibility.DacExtensionHelper.TryLoadAssemblyCatalog(String file, ComposablePartCatalog& catalog)
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.Data.Tools.Utilities.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:02 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.SqlServer.Dac.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.SqlServer.Dac.Extensions.dll' added
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.SqlServer.DacAzureExtensions.dll' added
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.SqlServer.TransactSql.ScriptDom.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.SqlServer.Types.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Microsoft.Threading.Tasks.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Newtonsoft.Json.dll' not added as no MEF parts found
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : FilteringCompositionContainer: Looking up exports for 'Microsoft.SqlServer.Dac.Deployment.DeploymentPlanExecutor'
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : FilteringCompositionContainer: Changed part creation policy to NonShared
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : Initialized ModelSchema - True
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : Initialized ModelSchema - True
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : SafeDirectoryCatalog: Assembly 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Extensions\Microsoft.SqlServer.Services.ImportExport.DacFxExtensions.dll' added
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : Extension Lookup: directory 'C:\Program Files (x86)\Microsoft SQL Server\140\DAC\bin\Extensions' added to extension lookup path
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : FilteringCompositionContainer: Looking up exports for 'Microsoft.SqlServer.Dac.Deployment.DeploymentPlanModifier'
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : FilteringCompositionContainer: Changed part creation policy to NonShared
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : ContributorLoader.LoadContributors: extension 'Microsoft.SqlServer.Management.Dac.Services.Extensions.CreateDatabaseWithCustomEditionDeploymentModifier' with version '1.0' loaded as contributor type Microsoft.SqlServer.Dac.Deployment.DeploymentPlanModifier
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:03 : Initialized ModelSchema - True
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 1 : 2020-08-01T14:16:04 : Generating operation 1 for [dbo].[ProductCategory]
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 1 : 2020-08-01T14:16:04 : Generating operation 1 for [dbo].[ProductList]
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 1 : 2020-08-01T14:16:04 : Generating operation 1 for [dbo].[Synonym_PriceDatabase_PriceTable]
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 1 : 2020-08-01T14:16:04 : Generating operation 1 for [dbo].[GetAllProductDetails]
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 1 : 2020-08-01T14:16:04 : Generating operation 1 for [dbo].[GetAllProductsByCategory]
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 1, Not Tracked, Type 'DeploymentScriptStep', Section 'Header', Script is as follows: 
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 2, Not Tracked, Type 'DeploymentScriptDomStep', Section 'Header', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+SET ANSI_NULLS, ANSI_PADDING, ANSI_WARNINGS, ARITHABORT, CONCAT_NULL_YIELDS_NULL, QUOTED_IDENTIFIER ON;
+
+SET NUMERIC_ROUNDABORT OFF;
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Error: 0 : 2020-08-01T14:16:05 : Error parsing script when attempting to mask sensitive data. Returning script as is. Error: 
+Incorrect syntax near :.
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 3, Not Tracked, Type 'DeploymentScriptStep', Section 'Header', Script is as follows: 
+
+:setvar PriceDatabase "PriceDatabase"
+:setvar ProductDBName "ProductDatabase"
+:setvar ServerName "LAPTOP-SO8773KH"
+:setvar DatabaseName "ProductDatabase"
+:setvar DefaultFilePrefix "ProductDatabase"
+:setvar DefaultDataPath "D:\SQLServer2017DeveloperEdition\MSSQL14.MSSQLSERVER\MSSQL\DATA\"
+:setvar DefaultLogPath "D:\SQLServer2017DeveloperEdition\MSSQL14.MSSQLSERVER\MSSQL\DATA\"
+
+Microsoft.Data.Tools.Diagnostics.Tracer Error: 0 : 2020-08-01T14:16:05 : Error parsing script when attempting to mask sensitive data. Returning script as is. Error: 
+Incorrect syntax near :.
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 4, Not Tracked, Type 'DeploymentScriptStep', Section 'Header', Script is as follows: 
+
+:on error exit
+Microsoft.Data.Tools.Diagnostics.Tracer Error: 0 : 2020-08-01T14:16:05 : Error parsing script when attempting to mask sensitive data. Returning script as is. Error: 
+Incorrect syntax near :.
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 5, Not Tracked, Type 'DeploymentScriptStep', Section 'Header', Script is as follows: 
+
+/*
+Detect SQLCMD mode and disable script execution if SQLCMD mode is not supported.
+To re-enable the script after enabling SQLCMD mode, execute the following:
+SET NOEXEC OFF; 
+*/
+:setvar __IsSqlCmdEnabled "True"
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 6, Not Tracked, Type 'DeploymentScriptDomStep', Section 'Header', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF N'$(__IsSqlCmdEnabled)' NOT LIKE N'True'
+    BEGIN
+        PRINT N'SQLCMD mode must be enabled to successfully execute this script.';
+        SET NOEXEC ON;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 7, Not Tracked, Type 'SqlChangeDatabaseStep', Section 'Master', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+USE [master];
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:05 : Executing Step 8, Not Tracked, Type 'DeploymentScriptStep', Section 'Master', Script is as follows: 
+
+IF (DB_ID(N'$(DatabaseName)') IS NOT NULL)
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET SINGLE_USER 
+            WITH ROLLBACK IMMEDIATE;
+        DROP DATABASE [$(DatabaseName)];
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:08 : Executing Step 9, Not Tracked, Type 'DeploymentScriptDomStep', Section 'Master', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+PRINT N'Creating $(DatabaseName)...';
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:08 : Executing Step 10, Not Tracked, Type 'SqlCreateDatabaseStep', Section 'Master', Operation '0', Ignorable Errors '1801,45166', Script is as follows: 
+
+CREATE DATABASE [$(DatabaseName)]
+    ON 
+    PRIMARY(NAME = [$(DatabaseName)], FILENAME = N'$(DefaultDataPath)$(DefaultFilePrefix)_Primary.mdf')
+    LOG ON (NAME = [$(DatabaseName)_log], FILENAME = N'$(DefaultLogPath)$(DefaultFilePrefix)_Primary.ldf') COLLATE SQL_Latin1_General_CP1_CI_AS;
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:09 : Executing Step 11, Not Tracked, Type 'SqlChangeDatabaseStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+USE [$(DatabaseName)];
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 12, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET ANSI_NULLS OFF,
+                ANSI_PADDING OFF,
+                ANSI_WARNINGS OFF,
+                ARITHABORT OFF,
+                CONCAT_NULL_YIELDS_NULL OFF,
+                NUMERIC_ROUNDABORT OFF,
+                QUOTED_IDENTIFIER OFF,
+                ANSI_NULL_DEFAULT OFF,
+                CURSOR_DEFAULT GLOBAL,
+                RECOVERY FULL,
+                CURSOR_CLOSE_ON_COMMIT OFF,
+                AUTO_CREATE_STATISTICS ON,
+                AUTO_SHRINK OFF,
+                AUTO_UPDATE_STATISTICS ON,
+                RECURSIVE_TRIGGERS OFF 
+            WITH ROLLBACK IMMEDIATE;
+        ALTER DATABASE [$(DatabaseName)]
+            SET AUTO_CLOSE OFF 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 13, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET ALLOW_SNAPSHOT_ISOLATION OFF;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 14, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET READ_COMMITTED_SNAPSHOT OFF 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 15, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET AUTO_UPDATE_STATISTICS_ASYNC OFF,
+                PAGE_VERIFY CHECKSUM,
+                DATE_CORRELATION_OPTIMIZATION OFF,
+                DISABLE_BROKER,
+                PARAMETERIZATION SIMPLE,
+                SUPPLEMENTAL_LOGGING OFF 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 16, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF IS_SRVROLEMEMBER(N'sysadmin') = 1
+    BEGIN
+        IF EXISTS (SELECT 1
+                   FROM   [master].[dbo].[sysdatabases]
+                   WHERE  [name] = N'$(DatabaseName)')
+            BEGIN
+                EXECUTE sp_executesql N'ALTER DATABASE [$(DatabaseName)]
+    SET TRUSTWORTHY OFF,
+        DB_CHAINING OFF 
+    WITH ROLLBACK IMMEDIATE';
+            END
+    END
+ELSE
+    BEGIN
+        PRINT N'The database settings cannot be modified. You must be a SysAdmin to apply these settings.';
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 17, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF IS_SRVROLEMEMBER(N'sysadmin') = 1
+    BEGIN
+        IF EXISTS (SELECT 1
+                   FROM   [master].[dbo].[sysdatabases]
+                   WHERE  [name] = N'$(DatabaseName)')
+            BEGIN
+                EXECUTE sp_executesql N'ALTER DATABASE [$(DatabaseName)]
+    SET HONOR_BROKER_PRIORITY OFF 
+    WITH ROLLBACK IMMEDIATE';
+            END
+    END
+ELSE
+    BEGIN
+        PRINT N'The database settings cannot be modified. You must be a SysAdmin to apply these settings.';
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 18, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+ALTER DATABASE [$(DatabaseName)]
+    SET TARGET_RECOVERY_TIME = 60 SECONDS 
+    WITH ROLLBACK IMMEDIATE;
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 19, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET FILESTREAM(NON_TRANSACTED_ACCESS = OFF),
+                CONTAINMENT = NONE 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 20, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET AUTO_CREATE_STATISTICS ON(INCREMENTAL = OFF),
+                MEMORY_OPTIMIZED_ELEVATE_TO_SNAPSHOT = OFF,
+                DELAYED_DURABILITY = DISABLED 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 21, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET QUERY_STORE (QUERY_CAPTURE_MODE = ALL, DATA_FLUSH_INTERVAL_SECONDS = 900, INTERVAL_LENGTH_MINUTES = 60, MAX_PLANS_PER_QUERY = 200, CLEANUP_POLICY = (STALE_QUERY_THRESHOLD_DAYS = 30), MAX_STORAGE_SIZE_MB = 100) 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 22, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET QUERY_STORE = OFF 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 23, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE SCOPED CONFIGURATION SET MAXDOP = 0;
+        ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET MAXDOP = PRIMARY;
+        ALTER DATABASE SCOPED CONFIGURATION SET LEGACY_CARDINALITY_ESTIMATION = OFF;
+        ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET LEGACY_CARDINALITY_ESTIMATION = PRIMARY;
+        ALTER DATABASE SCOPED CONFIGURATION SET PARAMETER_SNIFFING = ON;
+        ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET PARAMETER_SNIFFING = PRIMARY;
+        ALTER DATABASE SCOPED CONFIGURATION SET QUERY_OPTIMIZER_HOTFIXES = OFF;
+        ALTER DATABASE SCOPED CONFIGURATION FOR SECONDARY SET QUERY_OPTIMIZER_HOTFIXES = PRIMARY;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 24, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF EXISTS (SELECT 1
+           FROM   [master].[dbo].[sysdatabases]
+           WHERE  [name] = N'$(DatabaseName)')
+    BEGIN
+        ALTER DATABASE [$(DatabaseName)]
+            SET TEMPORAL_HISTORY_RETENTION ON 
+            WITH ROLLBACK IMMEDIATE;
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 25, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+IF fulltextserviceproperty(N'IsFulltextInstalled') = 1
+    EXECUTE sp_fulltext_database 'enable';
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 26, Not Tracked, Type 'CreateElementStep', Section 'User', Operation '1', Ignorable Errors '2714' (SqlTable), Script is as follows: 
+
+CREATE TABLE [dbo].[ProductCategory] (
+    [ProductCategoryId]   BIGINT        IDENTITY (1, 1) NOT NULL,
+    [ProductCategoryName] NVARCHAR (50) NOT NULL,
+    [CreatedDate]         DATETIME      NOT NULL,
+    [CreatedBy]           NVARCHAR (50) NOT NULL,
+    [ModifiedDate]        DATETIME      NULL,
+    [ModifiedBy]          BIGINT        NULL,
+    CONSTRAINT [PK_ProductCategory] PRIMARY KEY CLUSTERED ([ProductCategoryId] ASC)
+);
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 27, Not Tracked, Type 'CreateElementStep', Section 'User', Operation '1', Ignorable Errors '2714' (SqlTable), Script is as follows: 
+
+CREATE TABLE [dbo].[ProductList] (
+    [ProductId]         BIGINT         IDENTITY (1, 1) NOT NULL,
+    [ProductPriceId]    BIGINT         NOT NULL,
+    [ProductName]       NVARCHAR (100) NOT NULL,
+    [ProductCategoryId] BIGINT         NOT NULL,
+    [CreatedDate]       DATETIME       NOT NULL,
+    [CreatedBy]         NVARCHAR (50)  NOT NULL,
+    [ModifiedDate]      DATETIME       NULL,
+    [ModifiedBy]        NVARCHAR (50)  NULL,
+    CONSTRAINT [PK_ProductList] PRIMARY KEY CLUSTERED ([ProductId] ASC)
+);
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 28, Not Tracked, Type 'CreateElementStep', Section 'User', Operation '1', Ignorable Errors '2714' (SqlSynonym), Script is as follows: 
+
+CREATE SYNONYM [dbo].[Synonym_PriceDatabase_PriceTable] FOR [$(ServerName)].[$(PriceDatabase)].[dbo].[ProductPrice];
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 29, Not Tracked, Type 'CreateElementStep', Section 'User', Operation '1', Ignorable Errors '2714' (SqlProcedure), Script is as follows: 
+
+CREATE PROCEDURE GetAllProductDetails
+AS
+BEGIN
+    SET NOCOUNT ON;
+    SELECT p.ProductId,
+           p.ProductName,
+           PriceTableSynonym.Price,
+           p.ProductCategoryId,
+           pc.ProductCategoryName,
+           p.CreatedDate,
+           p.CreatedBy,
+           p.ProductPriceId
+    FROM   ProductList AS p
+           INNER JOIN
+           ProductCategory AS pc
+           ON p.ProductCategoryId = pc.ProductCategoryId
+           INNER JOIN
+           Synonym_PriceDatabase_PriceTable AS PriceTableSynonym
+           ON p.ProductPriceId = PriceTableSynonym.ProductPriceId;
+END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 30, Not Tracked, Type 'CreateElementStep', Section 'User', Operation '1', Ignorable Errors '2714' (SqlProcedure), Script is as follows: 
+
+CREATE PROCEDURE GetAllProductsByCategory
+@categoryId BIGINT
+AS
+BEGIN
+    SET NOCOUNT ON;
+    SELECT p.ProductId,
+           p.ProductName,
+           PriceTableSynonym.Price,
+           p.ProductCategoryId,
+           pc.ProductCategoryName,
+           p.CreatedDate,
+           p.CreatedBy,
+           p.ProductPriceId
+    FROM   ProductList AS p
+           INNER JOIN
+           ProductCategory AS pc
+           ON p.ProductCategoryId = pc.ProductCategoryId
+           INNER JOIN
+           Synonym_PriceDatabase_PriceTable AS PriceTableSynonym
+           ON p.ProductPriceId = PriceTableSynonym.ProductPriceId
+    WHERE  p.ProductCategoryId = @categoryId;
+END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 31, Not Tracked, Type 'DeploymentScriptStep', Section 'User', Script is as follows: 
+
+PRINT 'Insert Master Data in Product Database - Started';
+
+DECLARE @rowcount AS INT = (SELECT count(1)
+                            FROM   [dbo].[ProductCategory]);
+
+IF @rowcount <> 3
+    BEGIN
+        TRUNCATE TABLE [dbo].[ProductCategory];
+        INSERT  INTO [dbo].[ProductCategory] ([ProductCategoryName], [CreatedDate], [CreatedBy], [ModifiedDate], [ModifiedBy])
+        VALUES                              ('Phone', getdate(), 'Kunal Sehgal', NULL, NULL),
+        ('TV', getdate(), 'Kunal Sehgal', NULL, NULL),
+        ('Sports', getdate(), 'Kunal Sehgal', NULL, NULL);
+    END
+
+SELECT @rowcount = count(1)
+FROM   [dbo].[ProductCategory];
+
+IF @rowcount <> 9
+    BEGIN
+        TRUNCATE TABLE [dbo].[ProductList];
+        INSERT  INTO [dbo].[ProductList] ([ProductPriceId], [ProductName], [ProductCategoryId], [CreatedDate], [CreatedBy], [ModifiedDate], [ModifiedBy])
+        VALUES                          (1, 'SamsonMobile X10', 1, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (2, 'NokEAA N98', 1, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (3, 'SieErricson M10', 1, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (4, 'SOMAS LED TV', 2, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (5, 'NIKOS LCD HD', 2, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (6, 'Westwild LED XL', 2, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (7, 'HandBall', 3, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (8, 'Jumping Jack Trainer', 3, getdate(), 'Kunal Sehgal', NULL, NULL),
+        (9, 'Wrist Strengthner', 3, getdate(), 'Kunal Sehgal', NULL, NULL);
+    END
+
+
+GO
+PRINT 'Insert Master Data in Product Database - Completed';
+
+PRINT '********************************************************************';
+
+PRINT '********************************************************************';
+
+PRINT 'Call Main SQL Script for Current Release - Started';
+
+INSERT  INTO [dbo].[ProductCategory] ([ProductCategoryName], [CreatedDate], [CreatedBy], [ModifiedDate], [ModifiedBy])
+VALUES                              ('Natural Products', getdate(), 'Kunal Sehgal', NULL, NULL);
+
+
+GO
+SELECT TOP 1 *
+FROM   ProductCategory;
+
+
+GO
+PRINT 'Call Main SQL Script for Current Release - Completed';
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 32, Not Tracked, Type 'DeploymentScriptDomStep', Section 'User', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+DECLARE @VarDecimalSupported AS BIT;
+
+SELECT @VarDecimalSupported = 0;
+
+IF ((ServerProperty(N'EngineEdition') = 3)
+    AND (((@@microsoftversion / power(2, 24) = 9)
+          AND (@@microsoftversion & 0xffff >= 3024))
+         OR ((@@microsoftversion / power(2, 24) = 10)
+             AND (@@microsoftversion & 0xffff >= 1600))))
+    SELECT @VarDecimalSupported = 1;
+
+IF (@VarDecimalSupported > 0)
+    BEGIN
+        EXECUTE sp_db_vardecimal_storage_format N'$(DatabaseName)', 'ON';
+    END
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Verbose: 0 : 2020-08-01T14:16:10 : Executing Step 1, Not Tracked, Type 'DeploymentScriptDomStep', Section 'None', Operation '0', Ignorable Errors 'None', Script is as follows: 
+
+SET ANSI_NULLS, ANSI_PADDING, ANSI_WARNINGS, ARITHABORT, CONCAT_NULL_YIELDS_NULL, QUOTED_IDENTIFIER ON;
+
+SET NUMERIC_ROUNDABORT OFF;
+
+
+Microsoft.Data.Tools.Diagnostics.Tracer Information: 0 : 2020-08-01T14:16:10 : SqlPackage completed
