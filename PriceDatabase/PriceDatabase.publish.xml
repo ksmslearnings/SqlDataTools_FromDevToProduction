@@ -9,12 +9,4 @@
     <CreateNewDatabase>True</CreateNewDatabase>
     <ProfileVersionNumber>1</ProfileVersionNumber>
   </PropertyGroup>
-  <ItemGroup>
-    <SqlCmdVariable Include="ProductDBName">
-      <Value>ProductDatabase</Value>
-    </SqlCmdVariable>
-    <SqlCmdVariable Include="ServerName">
-      <Value>LAPTOP-SO8773KH</Value>
-    </SqlCmdVariable>
-  </ItemGroup>
 </Project>

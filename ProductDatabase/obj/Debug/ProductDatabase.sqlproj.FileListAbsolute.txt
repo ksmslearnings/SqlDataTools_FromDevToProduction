@@ -22,3 +22,13 @@ E:\Blogging\Projects\SQLServerDataTools\ProductDatabase\bin\Debug\PriceDatabase.
 E:\Blogging\Projects\SQLServerDataTools\ProductDatabase\bin\Debug\PriceDatabase.pdb
 E:\Blogging\Projects\SQLServerDataTools\ProductDatabase\bin\Debug\PriceDatabase.dacpac
 E:\Blogging\Projects\SQLServerDataTools\ProductDatabase\obj\Debug\ProductDatabase.sqlproj.CopyComplete
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\bin\Debug\ProductDatabase.dacpac
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\bin\Debug\OnPremiseProductDatabase.dll
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\bin\Debug\OnPremiseProductDatabase.pdb
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\bin\Debug\PriceDatabase.dll
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\bin\Debug\PriceDatabase.pdb
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\bin\Debug\PriceDatabase.dacpac
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\obj\Debug\ProductDatabase.sqlprojAssemblyReference.cache
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\obj\Debug\ProductDatabase.sqlproj.CopyComplete
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\obj\Debug\OnPremiseProductDatabase.dll
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\ProductDatabase\obj\Debug\OnPremiseProductDatabase.pdb

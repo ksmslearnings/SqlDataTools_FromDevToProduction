@@ -6,18 +6,12 @@
     <DeployScriptFileName>ProductDatabase.sql</DeployScriptFileName>
     <TargetConnectionString>Data Source=LAPTOP-SO8773KH;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</TargetConnectionString>
     <BlockOnPossibleDataLoss>True</BlockOnPossibleDataLoss>
-    <CreateNewDatabase>False</CreateNewDatabase>
+    <CreateNewDatabase>True</CreateNewDatabase>
     <ProfileVersionNumber>1</ProfileVersionNumber>
   </PropertyGroup>
   <ItemGroup>
     <SqlCmdVariable Include="PriceDatabase">
       <Value>PriceDatabase</Value>
-    </SqlCmdVariable>
-    <SqlCmdVariable Include="ProductDBName">
-      <Value>ProductDatabase</Value>
-    </SqlCmdVariable>
-    <SqlCmdVariable Include="ServerName">
-      <Value>LAPTOP-SO8773KH</Value>
     </SqlCmdVariable>
   </ItemGroup>
 </Project>

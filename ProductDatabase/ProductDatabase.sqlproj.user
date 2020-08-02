@@ -3,6 +3,5 @@
   <PropertyGroup>
     <StartupScript>(Blank)</StartupScript>
     <StartAction>StartNone</StartAction>
-    <SqlCmdVar__8>LAPTOP-SO8773KH</SqlCmdVar__8>
   </PropertyGroup>
 </Project>

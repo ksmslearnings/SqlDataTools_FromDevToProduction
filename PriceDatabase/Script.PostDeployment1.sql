@@ -14,5 +14,5 @@ Print ' Insert Master Data in Price Database'
 :r .\DMLScripts\MasterDataScripts\ProductPrices.sql
 
 
-Print 'Creating Objects that were referring a synonym recursively from another DB Project & Visual Studio SSDT tools are not allowing recursive Project Reference'
-:r .\SpecialDDL_For_PostDeploymentScripts\CreateView_With_SynonymReference.sql
+--Print 'Creating Objects that were referring a synonym recursively from another DB Project & Visual Studio SSDT tools are not allowing recursive Project Reference'
+--:r .\SpecialDDL_For_PostDeploymentScripts\CreateView_With_SynonymReference.sql

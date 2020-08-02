@@ -12,3 +12,8 @@ E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\bin\Debug\PriceDatabase.dl
 E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\bin\Debug\PriceDatabase.pdb
 E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\obj\Debug\PriceDatabase.dll
 E:\Blogging\Projects\SQLServerDataTools\PriceDatabase\obj\Debug\PriceDatabase.pdb
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\PriceDatabase\bin\Debug\PriceDatabase.dacpac
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\PriceDatabase\bin\Debug\PriceDatabase.dll
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\PriceDatabase\bin\Debug\PriceDatabase.pdb
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\PriceDatabase\obj\Debug\PriceDatabase.dll
+E:\Blogging\Projects\SQLServerDataTools\SqlDataTools_FromDevToProduction\PriceDatabase\obj\Debug\PriceDatabase.pdb

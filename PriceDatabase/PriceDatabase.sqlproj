@@ -136,7 +136,6 @@
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Synonyms\ProductDB_ProductListTbl.sql" />
     <None Include="DMLScripts\ReleaseScripts\CurrentRelease\Script2.sql" />
     <None Include="DMLScripts\ReleaseScripts\CurrentRelease\Script1.sql" />
     <None Include="DMLScripts\ReleaseScripts\CurrentRelease\OrderedSQLSteps.sql" />
@@ -146,19 +145,8 @@
     <None Include="DMLScripts\ReleaseScripts\Release-July2020\Script1.sql" />
   </ItemGroup>
   <ItemGroup>
-    <SqlCmdVariable Include="ProductDBName">
-      <DefaultValue>ProductDatabase</DefaultValue>
-      <Value>$(SqlCmdVar__3)</Value>
-    </SqlCmdVariable>
-    <SqlCmdVariable Include="ServerName">
-      <DefaultValue>LAPTOP-SO8773KH</DefaultValue>
-      <Value>$(SqlCmdVar__5)</Value>
-    </SqlCmdVariable>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="PriceDatabase.publish.xml" />
     <None Include="DMLScripts\MasterDataScripts\ProductPrices.sql" />
-    <None Include="SpecialDDL_For_PostDeploymentScripts\CreateView_With_SynonymReference.sql" />
     <None Include="DACPAC_Output\PriceDatabase.dacpac" />
   </ItemGroup>
   <ItemGroup>

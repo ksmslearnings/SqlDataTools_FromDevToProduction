@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[ProductCategory] (Table)
+       [dbo].[ProductList] (Table)
+       [dbo].[Synonym_PriceDatabase_PriceTable] (Synonym)
+       [dbo].[TestView] (View)
+       [dbo].[GetAllProductDetails] (Procedure)
+       [dbo].[GetAllProductDetailsV1] (Procedure)
+       [dbo].[GetAllProductsByCategory] (Procedure)
+
+** Supporting actions
